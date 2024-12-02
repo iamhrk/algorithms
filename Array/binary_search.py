@@ -16,4 +16,4 @@ def binary_search(array, search_value):
                 
 
 
-print(binary_search([2,4,8,9,10,11,15],15))
+print(binary_search([2,4,8,9,10,12,15],15))
